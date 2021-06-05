@@ -8,5 +8,15 @@ Many donors are unwilling to give to organizations with high paid leaders and hi
 on the people they serve? Are larger organizations more efficient at raising money than smaller organizations simply because they can pay their staff better? 
 
 ### Contents
+Data Files - data.zip  
+Code - LewisRebecca_FinalProject.ipynb  
+Report - LewisRebecca_FinalProject_Summary.doc  
+Presentation - LewisRebecca_FinalProject.pptx  
 
-### Installation and Usage
+### Requirements
+Python 3.7 was used in Jupyter Notebooks using the os, string, csv, pandas, numpy, thinkstats2, thinkplot, and matplotlib.
+
+### Usage
+1. Download the code file and data file into the same folder.
+2. Extract the data to the same location as the code file. 
+3. Open the Jupyter Notebook and execute each cell.
